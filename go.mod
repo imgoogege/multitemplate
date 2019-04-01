@@ -1,4 +1,4 @@
-module github.com/gin-contrib/multitemplate
+module github.com/imgoogege/multitemplate
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
